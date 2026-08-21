@@ -6,6 +6,7 @@ Um programa de terminal desenvolvido em **C** para realizar conversões entre di
 
 *   Conversão de graus Celsius para Fahrenheit e Kelvin.
 *   Conversão de Fahrenheit para Celsius e Kelvin
+*   Conversão de Kelvin para Celsius e Fahrenheit 
 *   Menu interativo e de fácil navegação.
 *   Sistema adaptado com a biblioteca `windows.h` para garantir a visualização correta de acentos e caracteres especiais no terminal do Windows.
 
