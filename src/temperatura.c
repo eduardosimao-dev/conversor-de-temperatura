@@ -1,5 +1,8 @@
 #include <stdio.h>
+#include <windows.h>
 int main(){
+
+SetConsoleOutputCP(65001);
 
     int temp1 = 0, temp2 = 0;
     float conversao, valortemp1;
